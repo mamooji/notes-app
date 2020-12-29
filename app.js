@@ -1,5 +1,4 @@
 //import statements
-import chalk from "chalk";
 import yargs from "yargs";
 import { addNote, removeNote, listNotes, readNote } from "./notes.js";
 

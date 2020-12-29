@@ -72,4 +72,4 @@ const readNote = (title) => {
   }
 };
 
-export { getNotes, addNote, removeNote, listNotes, readNote };
+export { addNote, removeNote, listNotes, readNote };
