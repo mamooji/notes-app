@@ -2,6 +2,11 @@
 
 This is a simple NodeJS command line application, used to create, remove, list, and read notes from a JSON file.
 
+### Prerequisites
+
+###### Download and Install [NodeJS](https://nodejs.org/en/download/)
+
+
 ### Installation and Startup
 
 ###### Clone This Repo
@@ -14,12 +19,6 @@ git clone https://github.com/mamooji/notes-app
 
 ```
 cd notes-app
-```
-
-###### Download and Install NodeJS
-
-```
-[Download here](https://nodejs.org/en/download/)
 ```
 
 ###### Install Dependencies
