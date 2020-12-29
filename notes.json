@@ -1,1 +1,6 @@
-[{"title":"this is my title thats new","body":"this is my new body"},{"title":"gang","body":"supa fat"},{"title":"debug","body":"node.js"}]
+[
+    {
+        "title": "sample",
+        "body": "this note it just to show off this super cool nodeJS app :D"
+    }
+]
